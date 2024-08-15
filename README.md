@@ -1,2 +1,0 @@
-# PRACTICAS
-programacion
